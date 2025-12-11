@@ -1,0 +1,1 @@
+console.log('LoyaltyX Plugin Loaded');
