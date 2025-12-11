@@ -32,7 +32,7 @@ There are no financial or other obligations for activating the free plugin.
 All core features of the plugin remain available whether or not you choose to register. There is no feature limitation, quota, or trial period involved.
 
 
-Privacy/terms Policy and activation
+Privacy/terms Policy and activation.
 
 By activating the plugin, you consent to our Privacy Policy, which includes receiving communications about satisfaction surveys, promotional offers, and premium plugin features.
 If you choose not to activate the plugin or provide your contact details, that’s completely fine. The plugin will remain fully functional, but free support services will not be available without activation.
